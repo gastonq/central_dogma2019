@@ -2,4 +2,5 @@
 demonstration to use git
 manage version control
 
-Fiday 28th june
+#Fiday 28th jun
+
